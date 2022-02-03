@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">recycleview</string>
+    <string name="todo">TODO</string>
+    <string name="sage">sage</string>
+    <string name="types">types</string>
+</resources>
